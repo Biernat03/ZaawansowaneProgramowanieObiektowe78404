@@ -24,7 +24,7 @@ Uruchomienie przez terminal:
 1. Wejdź do katalogu projektu.
 2. Sprawdź wersję SDK poleceniem dotnet --info.
 3. Zbuduj projekt poleceniem dotnet build.
-4. Uruchom program poleceniem dotnet run albo dotnet run --project nazwa_projektu.csproj.
+4. Uruchom program poleceniem dotnet run albo dotnet run --project ConsoleApp2.csproj.
 
 Uruchomienie w Visual Studio:
 1. Otwórz projekt.
