@@ -1,1 +1,1 @@
-# ZaawansowaneProgramowanieObiektowe78404
+# Zaawansowane Programowanie Obiektowe 78404
